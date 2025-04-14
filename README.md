@@ -19,8 +19,8 @@ A simple and modern Todo application built using **React** and **Tailwind CSS v4
 
 ### 🌞 Light Mode
 
-![Light Mode](./assets/light-img.png)
+![Light Mode](./src/assets/light-img.png)
 
 ### 🌙 Dark Mode
 
-![Dark Mode](./assets/dark-img.png)
+![Dark Mode](./src/assets/dark-img.png)
